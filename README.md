@@ -2,7 +2,7 @@
 
 Introducing our cutting-edge Telegram Accounts Generator with APIs! Unlock a world of seamless connectivity and communication with just a few clicks. Say goodbye to manual account creation hassles as our powerful API-driven tool swiftly generates multiple Telegram accounts on-demand. Whether you're a social media marketer, business owner, or community manager, streamline your outreach with ease. Enjoy instant access to Telegram's vast user base, expanding your network and boosting engagement effortlessly. Embrace efficiency, security, and scalability like never before. Elevate your digital presence with our dynamic Telegram Accounts Generator and revolutionize the way you connect with the world!
 
-<h3 align="center">For password ping me :- https://t.me/amphebian07</h3>
+<h3 align="center">For password ping me :- https://t.me/tangopython</h3>
 
 <h3 align="center">Price is simple 55$</h3>
 
@@ -17,5 +17,5 @@ Introducing our cutting-edge Telegram Accounts Generator with APIs! Unlock a wor
 
 
 <h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/Amphebian07/Telegram-acoount-creator"><img alt="Cute Count" 
+<a href="https://github.com/tangopython/Telegram-acoount-creator"><img alt="Cute Count" 
 src="https://count.getloli.com/get/@Telegram-acoount-creator?theme=rule34" /></a>
